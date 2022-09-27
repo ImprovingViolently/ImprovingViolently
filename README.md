@@ -5,17 +5,25 @@ Hello, I'm MrSilveryGibbon, the source of vast amounts of suspicious code. How m
 # Languages
 
 Extensive:
+
 HTML/CSS
+
 C#
 
 Moderate:
+
 Python
+
 C
 
 Limited:
+
 JavaScript
+
 Swift
+
 SQL
+
 BrainFuck
 
 # Contact
