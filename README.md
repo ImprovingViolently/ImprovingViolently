@@ -4,7 +4,19 @@ Hello, I'm MrSilveryGibbon, the source of vast amounts of suspicious code. How m
 
 # Languages
 
-I am familiar with a few languags but primarily use C#.
+Extensive:
+HTML/CSS
+C#
+
+Moderate:
+Python
+C
+
+Limited:
+JavaScript
+Swift
+SQL
+BrainFuck
 
 # Contact
 
