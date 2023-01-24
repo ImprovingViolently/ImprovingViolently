@@ -8,9 +8,13 @@ Extensive:
 
 HTML/CSS
 
+SQL
+
 C#
 
 Moderate:
+
+Micropython
 
 Python
 
@@ -21,8 +25,6 @@ Limited:
 JavaScript
 
 Swift
-
-SQL
 
 BrainFuck
 
