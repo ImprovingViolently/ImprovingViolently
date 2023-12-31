@@ -1,5 +1,5 @@
-|     CURRENT PROJECTS      |
-| ----------- | ----------- |
+| CURRENT PROJECTS            |
+| ----------- | ------------- |
 | Web Projects| Other Projects|
-| ----------- | ----------- |
-| msgDash     | TojiBot     |
+| ----------- | ------------- |
+| msgDash     | TojiBot       |
